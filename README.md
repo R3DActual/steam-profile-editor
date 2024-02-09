@@ -19,7 +19,7 @@ A Node.js script for automating the process of logging into a Steam account and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/steam-profile-spoofer.git
+   git clone https://github.com/R3DActual/steam-profile-editor.git
 
 2. `npm i`
 
