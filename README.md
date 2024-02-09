@@ -1,6 +1,6 @@
 # Steam Profile Spoofer / Steam Profile Editor
 
-A Node.js script for automating the process of logging into a Steam account and periodically changing profile details such as username, real name, avatar, custom URL, and profile summary. This script utilizes the SteamCommunity library for interaction with the Steam Community API.
+A Node.js script for automating the process of logging into a Steam account and periodically changing profile details such as username, real name, avatar, custom URL, and profile summary. This script utilizes the SteamCommunity library for interaction with the Steam Community API. This was initially made for Rust to hide username/steam profile when players would F7 and try and find your username.
 
 ## Features
 
